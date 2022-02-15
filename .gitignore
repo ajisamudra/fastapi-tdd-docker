@@ -1,4 +1,6 @@
 *__pycache__
 *_cache
+.coverage
+.coverage.*
 fastapi-env
 htmlcov
